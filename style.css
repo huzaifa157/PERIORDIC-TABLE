@@ -1,0 +1,23 @@
+table{ border: 2px solid rgb(6, 34, 240);
+background-color: rgb(253, 255, 255);width: 780pcx;
+}
+td{
+    border: 2px solid rgb(255, 209, 2); width: 90px; height: 55px;
+    text-align: center; 
+    text-decoration-color: aqua;
+font-style: oblique;
+color:solid rgb(11, 255, 92);
+background-color: ;
+}
+h1{color: rgb(255, 85, 0); box-decoration-break: slice; 
+font-style: italic;  font-size: xx-large; background-color: aqua;
+}
+body{
+    color: blue;
+}
+tr{
+    box-shadow: inset;
+}
+.bg{
+    background-color: rgb(15, 237, 245);
+}
